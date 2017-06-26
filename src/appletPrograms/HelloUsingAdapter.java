@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 public class HelloUsingAdapter extends Applet {
 	int x,y;
-	public void init()
+	public void init() 
 	{
 		x=y=300;
 		ObjClass obj=new ObjClass();
